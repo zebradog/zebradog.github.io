@@ -1,0 +1,11 @@
+# Site settings
+title: Open source projects provided by ZEBRADOG
+email: support@zebradog.com
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://code.zebradog.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
